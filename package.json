@@ -1,7 +1,7 @@
 {
   "name": "@molecule/markdown",
   "description": "A library providing an interface for markdown services and a corresponding pipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
